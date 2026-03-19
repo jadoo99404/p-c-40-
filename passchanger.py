@@ -1,8 +1,3 @@
-"""
-MS PASSWORD CHANGER DISCORD BOT
-Complete automation using your existing modules
-By: Advanced AI System
-"""
 
 import discord
 from discord.ext import commands, tasks
