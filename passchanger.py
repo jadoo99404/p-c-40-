@@ -33,7 +33,7 @@ except ImportError as e:
     print("Make sure automation/, gui/, utils/ folders are in the same directory")
 
 # ==================== CONFIGURATION ====================
-ADMIN_ID = 1116400566969577513
+ADMIN_ID = 1465282694668750890
 CONFIG_FILE = "bot_config.json"
 AUTHORIZED_USERS_FILE = "authorized_users.json"
 ACTIVE_SESSIONS_FILE = "active_sessions.json"
